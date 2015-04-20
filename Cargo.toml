@@ -1,0 +1,9 @@
+[package]
+name = "gtfs"
+version = "0.0.1"
+authors = ["Nolan Darilek <nolan@thewordnerd.info>"]
+
+[dependencies]
+csv = "0.14.2"
+rustc-serialize = "*"
+zip = "0.1.6"
